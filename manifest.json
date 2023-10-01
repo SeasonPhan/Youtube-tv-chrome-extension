@@ -5,8 +5,6 @@
   "description":"Enable YoutubeTV on browser and background play",
   "version":"1.0",
   "permissions": [
-    "activeTab",
-    "storage",
     "webRequest",
     "webRequestBlocking",
     "*://*.youtube.com/tv*"
